@@ -37,8 +37,6 @@ This is written in markdown language.
 ---
 **Testimonial:**
 
-**John Doe:** (Change to your name)
+**Neel Srivastava:**
 
-Throughout ACTL1101, I have mastered the topics listed in principles of actuarial science, and the coding assignment work is mine. I feel much more prepared for my future career.
-
-😄😄😄
+Throughout this course, I've been exposed to a wide variety of principles on actuaral science. Particularly, the data science and financial mathematics components of this course interested me the most. As a result, I feel more confident about what I want to pursue in the future. 
